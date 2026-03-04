@@ -1,0 +1,123 @@
+{
+  "usage_history": {
+    "Chok": [
+      {
+        "page": "overview",
+        "pageLabel": "Visão Geral",
+        "timestamp": "2026-03-04T09:05:59.676Z",
+        "duration": 16,
+        "id": 1772615159676
+      },
+      {
+        "page": "tasks",
+        "pageLabel": "Tarefas",
+        "timestamp": "2026-03-04T09:06:03.484Z",
+        "duration": 4,
+        "id": 1772615163484
+      },
+      {
+        "page": "finance",
+        "pageLabel": "Finanças",
+        "timestamp": "2026-03-04T09:06:06.996Z",
+        "duration": 4,
+        "id": 1772615166996
+      },
+      {
+        "page": "overview",
+        "pageLabel": "Visão Geral",
+        "timestamp": "2026-03-04T09:19:38.290Z",
+        "duration": 5,
+        "id": 1772615978290
+      },
+      {
+        "page": "profile",
+        "pageLabel": "Perfil",
+        "timestamp": "2026-03-04T09:19:54.244Z",
+        "duration": 11,
+        "id": 1772615994244
+      },
+      {
+        "page": "qr-mobile",
+        "pageLabel": "qr-mobile",
+        "timestamp": "2026-03-04T09:19:58.212Z",
+        "duration": 4,
+        "id": 1772615998212
+      },
+      {
+        "page": "support",
+        "pageLabel": "Suporte",
+        "timestamp": "2026-03-04T09:20:16.283Z",
+        "duration": 18,
+        "id": 1772616016283
+      },
+      {
+        "page": "overview",
+        "pageLabel": "Visão Geral",
+        "timestamp": "2026-03-04T09:22:16.007Z",
+        "duration": 7,
+        "id": 1772616136007
+      }
+    ]
+  },
+  "transactions": [
+    {
+      "id": "mmbtuc3tc1u0749mzdu",
+      "desc": "nada",
+      "amount": 2,
+      "type": "income",
+      "category": "alimentacao",
+      "date": "2026-03-04"
+    },
+    {
+      "id": "mmbtm9bgreiyb8y7r4o",
+      "desc": "comida",
+      "amount": 100,
+      "type": "income",
+      "category": "alimentacao",
+      "date": "2026-03-04"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "mmbtus88rrhdy3qm1ni",
+      "text": "Varrer",
+      "priority": "normal",
+      "done": false,
+      "date": "04/03/2026"
+    },
+    {
+      "id": "mmbtos1kjkqf3cv3tbr",
+      "text": "saa",
+      "priority": "alta",
+      "done": true,
+      "date": "04/03/2026"
+    }
+  ],
+  "login_logs": [
+    {
+      "username": "Chok",
+      "timestamp": "2026-03-04T09:20:23.967Z",
+      "success": true,
+      "isAdmin": true
+    },
+    {
+      "username": "Chok",
+      "timestamp": "2026-03-04T09:18:11.796Z",
+      "success": true,
+      "isAdmin": true
+    },
+    {
+      "username": "Chok",
+      "timestamp": "2026-03-04T09:07:46.301Z",
+      "success": true,
+      "isAdmin": true
+    },
+    {
+      "username": "Chok",
+      "timestamp": "2026-03-04T09:05:53.423Z",
+      "success": true,
+      "isAdmin": true
+    }
+  ],
+  "dark": false
+}
